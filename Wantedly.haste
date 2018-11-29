@@ -1,0 +1,6 @@
+{
+  "title" : "Wantedly",
+  "urlTemplate" : "https://www.wantedly.com/search?q=@haste",
+  "hotkeys" : "WTD",
+  "queryEncoding" : 4
+}
