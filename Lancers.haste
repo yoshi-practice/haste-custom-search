@@ -1,0 +1,6 @@
+{
+  "title" : "Lancers",
+  "urlTemplate" : "https://www.lancers.jp/work/search?keyword=@haste",
+  "hotkeys" : "LCS",
+  "queryEncoding" : 4
+}
