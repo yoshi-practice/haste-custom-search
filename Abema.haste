@@ -1,0 +1,6 @@
+{
+  "title" : "AbemaTV",
+  "urlTemplate" : "https://abema.tv/search?q=@haste",
+  "hotkeys" : "ABM",
+  "queryEncoding" : 4
+}
